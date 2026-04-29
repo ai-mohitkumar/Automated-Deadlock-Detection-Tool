@@ -9,6 +9,10 @@ An interactive **Operating Systems course project** that demonstrates real-time 
 
 ---
 
+## About
+
+**Automated Deadlock Detection Tool** is an interactive dashboard built for Operating Systems coursework. It implements core OS concepts like Wait-For Graphs, cycle detection for deadlocks, Banker's Algorithm safety checks, and provides 6 practical resolution strategies. The professional Streamlit interface allows real-time analysis, graph visualization, CSV import, and downloadable reports.
+
 ## Features
 
 - **Real-time Deadlock Detection** — Identifies circular waits in resource allocation graphs using NetworkX cycle detection.
